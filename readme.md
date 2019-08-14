@@ -18,3 +18,8 @@
     - тегами
 - Список заказов
 - Управление пользователями
+
+## Technology 
+
+- Laravel
+- [Shop Cart](https://github.com/Crinsane/LaravelShoppingcart)
